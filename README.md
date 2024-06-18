@@ -44,8 +44,8 @@ A line plot showing the trend in the number of aviation accidents per year.
 ### Visualization 2: Risk Assessment by Aircraft Category
 A bar plot depicting the risk scores calculated for different aircraft categories based on the severity of accidents.
 
-### Visualization 3: Top 20 Risky Regions by Accident Frequency
-A bar plot illustrating the top 20 regions (countries) with the highest frequency of aviation accidents, ranked by their risk scores.
+### Visualization 3: Top 10 Risky Regions by Accident Frequency
+A bar plot illustrating the top 10 regions (countries) with the highest frequency of aviation accidents, ranked by their risk scores.
 
 ## Conclusion
 ### Summary of Conclusions
